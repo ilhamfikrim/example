@@ -16,3 +16,5 @@ Example Bangkit Program Create Repository
 * Ilham
 * Fikri
 * Mulyana
+I am editing the README file. Adding some more details about the project description.
+
